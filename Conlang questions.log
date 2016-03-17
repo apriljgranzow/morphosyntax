@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  17 MAR 2016 16:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  17 MAR 2016 17:10
 entering extended mode
 **Conlang*questions.tex
 ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.tex"
@@ -45,6 +45,12 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 117.
+Package scrbase Info: Unknown processing state.
+(scrbase)             Processing option `twocolumn'
+(scrbase)             of member `.scrartcl.cls' of family
+(scrbase)             `KOMA' doesn't set
+(scrbase)             a valid state. This will be interpreted
+(scrbase)             as \FamilyKeyStateProcessed on input line 1150.
 Class scrartcl Info: File `scrsize11pt.clo' used instead of
 (scrartcl)           file `scrsize11.clo' to setup font sizes on input line 153
 1.
@@ -66,12 +72,19 @@ Package typearea, 2013/12/19 v3.12 KOMA-Script package (type area)
 \ta@vblk=\skip43
 \ta@temp=\skip44
 \footheight=\skip45
+
+Package typearea Warning: Maybe no optimal type area settings!
+(typearea)                The maximum limit of line width is about 40%
+(typearea)                larger than the heuristically detected line width.
+(typearea)                You may e.g. increase DIV, decrease fontsize
+(typearea)                or change the papersize.
+
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 10
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
 (typearea)              \textwidth      = 418.25555pt
-(typearea)              DIV departure   = -6%
+(typearea)              DIV departure   = 40%
 (typearea)              \evensidemargin = 17.3562pt
 (typearea)              \oddsidemargin  = 17.3562pt
 (typearea)             \paperheight     = 845.04694pt
@@ -112,13 +125,56 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \WF@everypar=\toks16
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty"
-Package: tcolorbox 2014/01/10 version 2.61 text color boxes
+("C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
+Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
 
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+\XKV@depth=\count90
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
-\pgfutil@everybye=\toks17
+\pgfutil@everybye=\toks19
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
 \pgfutil@abb=\box29
@@ -145,18 +201,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count90
-))
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
 )
@@ -165,12 +210,12 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks18
-\pgfkeys@temptoks=\toks19
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
 x"
-\pgfkeys@tmptoks=\toks20
+\pgfkeys@tmptoks=\toks22
 ))
 \pgf@x=\dimen108
 \pgf@y=\dimen109
@@ -182,10 +227,10 @@ x"
 \pgf@yc=\dimen115
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count91
-\c@pgf@countb=\count92
-\c@pgf@countc=\count93
-\c@pgf@countd=\count94
+\c@pgf@counta=\count92
+\c@pgf@countb=\count93
+\c@pgf@countc=\count94
+\c@pgf@countd=\count95
  ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
@@ -201,42 +246,24 @@ File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
 ex"
 File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count95
-\pgfsyssoftpath@bigbuffer@items=\count96
+\pgfsyssoftpath@smallbuffer@items=\count96
+\pgfsyssoftpath@bigbuffer@items=\count97
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
 ex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+)) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
 Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen116
-\pgfmath@count=\count97
+\pgfmath@count=\count98
 \pgfmath@box=\box30
-\pgfmath@toks=\toks21
-\pgfmath@stack@operand=\toks22
-\pgfmath@stack@operation=\toks23
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
@@ -254,7 +281,7 @@ tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
 ex"))) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
 "
-\c@pgfmathroundto@lastzeros=\count98
+\c@pgfmathroundto@lastzeros=\count99
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
 "
@@ -292,7 +319,7 @@ File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box31
 \pgf@hbox=\box32
 \pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count99
+\pgf@picture@serial@count=\count100
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
 de.tex"
@@ -324,7 +351,7 @@ File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
 \pgf@max=\dimen139
-\pgf@sys@shading@range@num=\count100
+\pgf@sys@shading@range@num=\count101
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
 x"
 File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
@@ -361,78 +388,115 @@ Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
 sty"
 Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
-Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks24
-\verbatim@line=\toks25
-\verbatim@in@stream=\read2
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty"
-Package: environ 2013/04/01 v0.3 A new environment syntax
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen142
+\pgffor@skip=\dimen143
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty"
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count102
+\pgfplotmarksize=\dimen144
 )
-\@envbody=\toks26
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\tikz@lastx=\dimen145
+\tikz@lasty=\dimen146
+\tikz@lastxsaved=\dimen147
+\tikz@lastysaved=\dimen148
+\tikzleveldistance=\dimen149
+\tikzsiblingdistance=\dimen150
+\tikz@figbox=\box36
+\tikz@tempbox=\box37
+\tikztreelevel=\count103
+\tikznumberofchildren=\count104
+\tikznumberofcurrentchild=\count105
+\tikz@fig@count=\count106
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count101
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count107
+\pgfmatrixcurrentcolumn=\count108
+\pgf@matrix@numberofcolumns=\count109
 )
-\etb@tempcnta=\count102
+\tikz@expandcount=\count110
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v2.10 (rcs-revision 1.7)
 )
-\tcb@titlebox=\box36
-\tcb@upperbox=\box37
-\tcb@lowerbox=\box38
-\tcb@phantombox=\box39
-\c@tcbbreakpart=\count103
-\c@tcblayer=\count104
-\tcb@temp=\box40
-\tcb@temp=\box41
-\tcb@temp=\box42
-\tcb@temp=\box43
-\tcb@out=\write4
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count111
+\calc@Bcount=\count112
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count113
+\calc@Cskip=\skip51
+)
+\c@@todonotes@numberoftodonotes=\count114
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\marginnote\marginnote.sty"
+Package: marginnote 2012/03/29 v1.1i non floating margin notes for LaTeX
+\c@mn@abspage=\count115
 )
 ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
-ABD: EveryShipout initializing macros
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen142
-\scratchbox=\box44
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen143
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks28
-)
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 15.
-
+\scratchcounter=\count116
+\scratchdimen=\dimen153
+\scratchbox=\box38
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen154
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks29
+) ABD: EveryShipout initializing macros
+Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
+(marginnote)             Extended position detection mode activated.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 15.
+(Font)              <14.4> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 13.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+
+
+]
 ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
@@ -441,32 +505,57 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
 )
-\tf@toc=\write5
- [1
+\tf@toc=\write4
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2
+
+]
+Underfull \hbox (badness 1259) in paragraph at lines 32--33
+\OT1/cmr/m/n/10.95 i-nant and which are marginal-ized?
+ []
+
+[3
+
+]
+Underfull \hbox (badness 7451) in paragraph at lines 62--63
+\OT1/cmr/m/n/10.95 is it dom-i-nantly "head-marking,"
+ []
 
 
+Overfull \hbox (17.25002pt too wide) in paragraph at lines 66--66
+ []\OT1/cmr/bx/n/10.95 Distributional
+ []
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
-("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.aux")
+Overfull \hbox (17.25002pt too wide) in paragraph at lines 66--66
+[]\OT1/cmr/bx/n/10.95 Distributional 
+ []
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- ) 
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+[4] ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.aux") ) 
 Here is how much of TeX's memory you used:
- 10337 strings out of 493921
- 189174 string characters out of 3147270
- 279972 words of memory out of 3000000
- 13458 multiletter control sequences out of 15000+200000
- 8773 words of font info for 31 fonts, out of 3000000 for 9000
+ 11665 strings out of 493921
+ 221362 string characters out of 3147270
+ 305798 words of memory out of 3000000
+ 14754 multiletter control sequences out of 15000+200000
+ 9081 words of font info for 32 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 64i,7n,71p,851b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on "Conlang questions.pdf" (3 pages, 52631 bytes).
+ 74i,9n,77p,460b,890s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on "Conlang questions.pdf" (4 pages, 67415 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

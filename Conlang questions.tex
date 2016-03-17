@@ -1,19 +1,19 @@
-\documentclass[]{scrartcl}
+\documentclass[twocolumn]{scrartcl}
 \usepackage{enumitem}
 \usepackage{wrapfig}
-\usepackage{tcolorbox}
-\newenvironment{WrapText}[1][r]
-  {\wrapfigure{#1}{0.5\textwidth}\tcolorbox}
-  {\endtcolorbox\endwrapfigure}
+\usepackage{todonotes}
+\usepackage{marginnote}
 %opening
-\title{Conlang questions from \textit{Describing Morphosyntax}}
+\title{Conlang questions from Describing Morphosyntax}
 \author{Dicewitch}
 
 \begin{document}
 
 \maketitle
+\onecolumn
 \tableofcontents
 \pagebreak
+\twocolumn
 \section{Demographic and ethnographic information}
 \begin{enumerate}
 \subsection{Name of the language}
@@ -55,5 +55,17 @@
 \item Is the language dominantly isolating or polysynthetic?
 \item If the language is at all polysynthetic, is it dominantly agglutinative or fusional?
 \item Give examples of its dominant pattern and any secondary patterns.
+\subsection{Morphological processes}
+\item If the language is at all agglutinative, is it dominantly prefixing,suffixing, or neither?
+\item Illustrate the major and secondary patterns (including infixation, stem modification, reduplication, suprasegmental modification, and suppletion)
+\subsection{Head/dependent marking}
+\item If the language is at all polysynthetic, is it dominantly "head-marking," "dependent-marking," or mixed?
+\item Give some examples of each type of marking the language exhibits.
+\section{Grammatical categories}
+\subsection{Nouns}
+\item What are the distributional properties of nouns? \marginline{\textbf{Distributional properties:} How nouns appear in phrases, clauses and texts}
+\item What are the structural properties of nouns?\marginline{\textbf{Structural properties:} internal structure of the noun, ie. case, number, gender}
+\item What are the major formally distinct subcategories of nouns? 
+\subitem Proper names, possessable vs non-possessable, count vs mass, noun class (If you have a noun class system, put it in the noun chapter.\todo{add section ref})
 \end{enumerate}
 \end{document}
