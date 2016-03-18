@@ -15,3 +15,11 @@
 \contentsline {subsection}{\numberline {2.3}Head/dependent marking}{4}
 \contentsline {section}{\numberline {3}Grammatical categories}{4}
 \contentsline {subsection}{\numberline {3.1}Nouns}{4}
+\contentsline {subsection}{\numberline {3.2}Verbs}{4}
+\contentsline {subsection}{\numberline {3.3}Modifiers}{5}
+\contentsline {subsection}{\numberline {3.4}Adverbs}{5}
+\contentsline {section}{\numberline {4}Constituent order typology}{6}
+\contentsline {subsection}{\numberline {4.1}Verb phrase}{6}
+\contentsline {subsection}{\numberline {4.2}Noun phrase}{6}
+\contentsline {subsection}{\numberline {4.3}Adpositional phrases (prepositions and postpositions)}{6}
+\contentsline {subsection}{\numberline {4.4}Comparatives}{6}

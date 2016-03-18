@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  17 MAR 2016 17:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  17 MAR 2016 19:33
 entering extended mode
 **Conlang*questions.tex
 ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.tex"
@@ -525,12 +525,67 @@ Underfull \hbox (badness 7451) in paragraph at lines 62--63
 
 
 Overfull \hbox (17.25002pt too wide) in paragraph at lines 66--66
- []\OT1/cmr/bx/n/10.95 Distributional
+[]\OT1/cmr/bx/n/10.95 Distributional
  []
 
 
-Overfull \hbox (17.25002pt too wide) in paragraph at lines 66--66
-[]\OT1/cmr/bx/n/10.95 Distributional 
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/bx/n/10.95 prop-er-ties:
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 66--66
+\OT1/cmr/m/n/10.95 How nouns
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/m/n/10.95 ap-pear in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/m/n/10.95 phrases,
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 66--66
+\OT1/cmr/m/n/10.95 clauses and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/10.95 Structural
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/cmr/bx/n/10.95 prop-er-ties:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/cmr/m/n/10.95 in-ter-nal
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 67--67
+\OT1/cmr/m/n/10.95 struc-ture of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/cmr/m/n/10.95 the noun,
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 67--67
+\OT1/cmr/m/n/10.95 ie. case,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/cmr/m/n/10.95 num-ber,
  []
 
 
@@ -539,23 +594,293 @@ LaTeX Warning: Marginpar on page 4 moved.
 
 LaTeX Warning: Marginpar on page 4 moved.
 
-[4] ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.aux") ) 
+
+Underfull \hbox (badness 2343) in paragraph at lines 70--71
+\OT1/cmr/m/n/10.95 noun word (for polysyn-thetic lan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\OT1/cmr/bx/n/10.95 Anaphoric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\OT1/cmr/bx/n/10.95 cl-i-tics \OT1/cmr/m/n/10.95 are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\OT1/cmr/m/n/10.95 pro-nouns
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\OT1/cmr/m/n/10.95 that must
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\OT1/cmr/m/n/10.95 to an-other
+ []
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 76--77
+[]\OT1/cmr/m/n/10.95 What are the ma-jor sub-classes of
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 79--80
+[]| \OT1/cmr/m/n/10.95 se-man-tic role mark-ers (ap-plica-
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+[]\OT1/cmr/m/n/10.95 Give charts of the var-i-ous
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 89--90
+\OT1/cmr/m/n/10.95 paradigms, e.g., per-son mark-ing,
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 89--90
+\OT1/cmr/m/n/10.95 tense/aspect/mode etc. In-di-cate
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 104--105
+\OT1/cmr/m/n/10.95 count with-out re-sort-ing ei-ther to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\OT1/cmr/bx/n/10.95 Types of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/bx/n/10.95 ad-verbs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 in-clude
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/bx/n/10.95 man-ner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 (\OT1/cmr/m/it/10.95 quickly,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/it/10.95 slowly,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/it/10.95 pa-tiently,
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 106--106
+\OT1/cmr/m/it/10.95 etc\OT1/cmr/m/n/10.95 ), \OT1/cmr/bx/n/10.95 time\OT1/cmr/m
+/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/bx/n/10.95 di-rec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/bx/n/10.95 /lo-ca-tion\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 and \OT1/cmr/bx/n/10.95 ev-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/bx/n/10.95 i-den-tial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/bx/n/10.95 /epis-temic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 (in-di-cates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 in-for-ma-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 - hearsay,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 first-hand,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 second-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10.95 hand, or
+ []
+
+[5]
+Underfull \hbox (badness 1521) in paragraph at lines 116--117
+[]\OT1/cmr/bx/n/10.95 Question spe-cific to the main
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 127--128
+[]\OT1/cmr/m/n/10.95 Does the lan-guage have one or
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 127--128
+\OT1/cmr/m/n/10.95 more gram-mat-i-cal-ized com-par-a-tive
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 130--130
+[]\OT1/cmr/bx/n/10.95 The 3 el-
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 130--130
+\OT1/cmr/bx/n/10.95 e-ments of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/bx/n/10.95 com-par-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]\OT1/cmr/m/n/10.95 (1) the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 known
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/bx/n/10.95 stan-dard
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 against
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 which the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 sub-ject is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 com-pared;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 (2) the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/bx/n/10.95 marker
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 that sig-nals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 that the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 clause is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 com-par-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 by which
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 the sub-ject
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/10.95 is com-
+ []
+
+[6] ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.aux") ) 
 Here is how much of TeX's memory you used:
- 11665 strings out of 493921
- 221362 string characters out of 3147270
- 305798 words of memory out of 3000000
- 14754 multiletter control sequences out of 15000+200000
- 9081 words of font info for 32 fonts, out of 3000000 for 9000
+ 11673 strings out of 493921
+ 221530 string characters out of 3147270
+ 311253 words of memory out of 3000000
+ 14761 multiletter control sequences out of 15000+200000
+ 9427 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 74i,9n,77p,460b,890s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 74i,9n,77p,460b,902s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on "Conlang questions.pdf" (4 pages, 67415 bytes).
+ts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Conlang questions.pdf" (6 pages, 92144 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
