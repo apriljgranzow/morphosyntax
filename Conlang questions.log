@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  17 MAR 2016 19:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  17 MAR 2016 21:47
 entering extended mode
 **Conlang*questions.tex
 ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.tex"
@@ -456,18 +456,18 @@ Package: marginnote 2012/03/29 v1.1i non floating margin notes for LaTeX
 \c@mn@abspage=\count115
 )
 ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -486,17 +486,10 @@ LaTeX Font Info:    ... okay on input line 10.
 Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
 (marginnote)             Extended position detection mode activated.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 13.
+(Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
- [1
+(Font)              <7> on input line 14.
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-
-
-]
 ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
@@ -504,19 +497,38 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
+
+Underfull \hbox (badness 1147) in paragraph at lines 13--13
+ [][] []\OT1/cmr/m/n/10.95 Historical back-ground and 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+ [][] []\OT1/cmr/m/n/10.95 Adpositional phrases 
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 33--33
+ [][] []\OT1/cmr/m/n/10.95 Articles, de-ter-min-ers, and 
+ []
+
 )
 \tf@toc=\write4
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
 
 ]
 Underfull \hbox (badness 1259) in paragraph at lines 32--33
 \OT1/cmr/m/n/10.95 i-nant and which are marginal-ized?
  []
 
-[3
+[2
 
 ]
 Underfull \hbox (badness 7451) in paragraph at lines 62--63
@@ -589,10 +601,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--67
  []
 
 
-LaTeX Warning: Marginpar on page 4 moved.
+LaTeX Warning: Marginpar on page 3 moved.
 
 
-LaTeX Warning: Marginpar on page 4 moved.
+LaTeX Warning: Marginpar on page 3 moved.
 
 
 Underfull \hbox (badness 2343) in paragraph at lines 70--71
@@ -625,7 +637,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
  []
 
 
-LaTeX Warning: Marginpar on page 4 moved.
+LaTeX Warning: Marginpar on page 3 moved.
 
 
 Underfull \hbox (badness 1383) in paragraph at lines 76--77
@@ -637,7 +649,7 @@ Underfull \hbox (badness 1067) in paragraph at lines 79--80
 []| \OT1/cmr/m/n/10.95 se-man-tic role mark-ers (ap-plica-
  []
 
-[4]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 89--90
 []\OT1/cmr/m/n/10.95 Give charts of the var-i-ous
  []
@@ -753,7 +765,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--106
 \OT1/cmr/m/n/10.95 hand, or
  []
 
-[5]
+[4]
 Underfull \hbox (badness 1521) in paragraph at lines 116--117
 []\OT1/cmr/bx/n/10.95 Question spe-cific to the main
  []
@@ -769,118 +781,150 @@ Underfull \hbox (badness 5924) in paragraph at lines 127--128
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 130--130
+Underfull \hbox (badness 1377) in paragraph at lines 132--132
 []\OT1/cmr/bx/n/10.95 The 3 el-
  []
 
 
-Underfull \hbox (badness 3492) in paragraph at lines 130--130
+Underfull \hbox (badness 3492) in paragraph at lines 132--132
 \OT1/cmr/bx/n/10.95 e-ments of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/bx/n/10.95 com-par-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 []\OT1/cmr/m/n/10.95 (1) the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 known
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/bx/n/10.95 stan-dard
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 against
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 which the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 sub-ject is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 com-pared;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (2) the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/bx/n/10.95 marker
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 that sig-nals
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 that sig-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 that the
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 nals that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 clause is
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 the clause
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 com-par-a-
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 is com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 par-a-tive,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\OT1/cmr/m/n/10.95 (3) the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/bx/n/10.95 qual-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 by which
  []
 
 
-Underfull \hbox (badness 4429) in paragraph at lines 130--130
+Underfull \hbox (badness 4429) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 the sub-ject
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 is com-
  []
 
-[6] ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.aux") ) 
+
+Underfull \hbox (badness 2221) in paragraph at lines 142--143
+[]\OT1/cmr/m/n/10.95 Is there noun-verb (or verb-noun)
+ []
+
+[5]
+Underfull \hbox (badness 2293) in paragraph at lines 150--151
+[]\OT1/cmr/m/n/10.95 Is num-ber ex-pressed in the noun
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 154--155
+[]\OT1/cmr/m/n/10.95 What non-singular dis-tinc-tions are
+ []
+
+[6] [7
+
+] ("C:\Users\xrain_000\Documents\morphosyntax\Conlang questions.aux") ) 
 Here is how much of TeX's memory you used:
- 11673 strings out of 493921
- 221530 string characters out of 3147270
- 311253 words of memory out of 3000000
- 14761 multiletter control sequences out of 15000+200000
+ 11680 strings out of 493921
+ 221689 string characters out of 3147270
+ 311418 words of memory out of 3000000
+ 14768 multiletter control sequences out of 15000+200000
  9427 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  74i,9n,77p,460b,902s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Conlang questions.pdf" (6 pages, 92144 bytes).
+<C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmti10.pfb>
+Output written on "Conlang questions.pdf" (7 pages, 98952 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
